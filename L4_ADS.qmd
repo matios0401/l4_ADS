@@ -38,3 +38,5 @@ dotchart(mtcars$mpg, labels=row.names(mtcars), cex=.7,
 | 4    | 6    |
 | 5    | 9    |
 | 2    | 1    |
+
+ח
